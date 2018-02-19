@@ -12,7 +12,7 @@
 
 <script>
 
-  import ThreadListItem from './ThreadListItem'
+import ThreadListItem from './ThreadListItem'
 
 export default {
 
