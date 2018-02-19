@@ -40,7 +40,7 @@ export default {
         userId: '7uVPJS9GHoftN58Z2MXCYDqmNAh2',
         '.key': postId
       }
-      this.newPostText = ''
+      this.text = ''
       this.$emit('save', {post})
     }
   }
