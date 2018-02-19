@@ -9,7 +9,7 @@
               <img class="avatar-large" :src="user.avatar" alt="">
           </a>
 
-          <p class="desktop-only text-small">107 posts</p>
+          <p class="desktop-only text-small">{{userPostsCount}} posts</p>
 
       </div>
 
